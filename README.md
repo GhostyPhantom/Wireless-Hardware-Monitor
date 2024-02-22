@@ -1,6 +1,8 @@
 # Wireless-Hardware-Monitor
 **Wireless Hardware Monitor with ESP8266 NodeMCU**
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/j76s0uAeMlU/0.jpg)](http://www.youtube.com/watch?v=j76s0uAeMlU "Video Title")
+
 Wireless Hardware Monitor
 
 * This project has no safety precaution whatsoever. It is only intended to be used in safe environment such as home wifi.
@@ -14,7 +16,7 @@ ESP8266 board (ESP8266 NodeMCU Lua - [Link](https://www.amazon.com/HiLetgo-Inter
 LCD screen (TFT LCD 1.3inch 240x240 IPS ST7789 IC Driver - [Link](https://www.amazon.com/MakerFocus-Display-1-3inch-Interface-Routines/dp/B07P9X3L7M))
 
 **Software List:**
-Openhardwaremonitor (only v0.9.3 works for me - Download [Link](https://openhardwaremonitor.org) )
+Openhardwaremonitor (only v0.9.3 works for me - [Download Link](https://openhardwaremonitor.org) )
 
 Arduino IDE (Any version should be fine)
 
@@ -50,8 +52,7 @@ Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 * Currently the only way to stop the server is to kill the process via task manager, ctrl+c probably won't work.
 
-Thanks to the socket tutorial by TechWithTim on Youtube
-[Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
+Thanks to the socket [tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc) by TechWithTim on Youtube.
 
 **My Youtube video of this project (Cringe Warning)**
 
