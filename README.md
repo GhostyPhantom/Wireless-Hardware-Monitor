@@ -42,21 +42,21 @@ Openhardwaremonitor (only v0.9.3 works for me - [Download Link](https://openhard
 Arduino IDE (Any version should be fine)
 
 **Additional Library for Arduino IDE:**
-NTPClient v3.2.0 by Fabrice Weinberg
-Adafruit BusIO v1.8.3 by Adafruit 
-Adafruit Circuit Playground v1.8.6 by Adafruit 
-Adafruit GFX Library v1.10.10 by Adafruit 
-Adafruit seesaw Library v1.4.5 by Adafruit 
-Adafruit ST7735 and ST7789 Library v1.7.3 by Adafruit 
-Adafruit STMPE610 v1.1.3 by Adafruit 
-ArduinoJson v6.18.3 by Benoit Blanchon
-DisplayMenu v0.9.2 by guttih
-ESP8266 Weather Station v2.0.1 by ThingPulse
-Json Streaming Parser v1.0.5 by Daniel Eichhorn
-Mini Grafx v1.2.5 by Daniel Eichhorn
-TFT_eSPI v2.3.70 by Bodmer
-Time v1.6.1 by Paul Stoffregen
-Jpg_Decoder v0.0.3 by Bodmer
+-NTPClient v3.2.0 by Fabrice Weinberg
+-Adafruit BusIO v1.8.3 by Adafruit 
+-Adafruit Circuit Playground v1.8.6 by Adafruit 
+-Adafruit GFX Library v1.10.10 by Adafruit 
+-Adafruit seesaw Library v1.4.5 by Adafruit 
+-Adafruit ST7735 and ST7789 Library v1.7.3 by Adafruit 
+-Adafruit STMPE610 v1.1.3 by Adafruit 
+-ArduinoJson v6.18.3 by Benoit Blanchon
+-DisplayMenu v0.9.2 by guttih
+-ESP8266 Weather Station v2.0.1 by ThingPulse
+-Json Streaming Parser v1.0.5 by Daniel Eichhorn
+-Mini Grafx v1.2.5 by Daniel Eichhorn
+-TFT_eSPI v2.3.70 by Bodmer
+-Time v1.6.1 by Paul Stoffregen
+-Jpg_Decoder v0.0.3 by Bodmer
 
 **Settings for uploading code to board via arduino IDE:**
 Board: NodeMCU 1.0 (ESP-12E Module)
