@@ -66,7 +66,7 @@ Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 **How to start monitoring**
 
-'''
+```
 1. Run OpenHardwareMonitor.exe from the OpenHardwareMonitor folder you downloaded
 2. Run server_ESP.py, I'm using an Anaconda command prompt on Windows 10
 3. The output of server_ESP.py should contain the local IP address it's running on
@@ -74,8 +74,7 @@ Flash Size: 4MB (FS:2MB OTA:~1019KB)
 5. Upload 8266client.ino to your board via arduino IDE
 6.Once the upload complete and the board is powered, it should connect to wifi and then server automatically`
 
-'''
-
+```
 * Currently the only way to stop the server is to kill the process via task manager, ctrl+c probably won't work.
 
 Thanks to the socket [tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc) by TechWithTim on Youtube.
