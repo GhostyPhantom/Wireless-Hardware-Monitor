@@ -59,9 +59,13 @@ Arduino IDE (Any version should be fine)
 * Jpg_Decoder v0.0.3 by Bodmer
 
 **Settings for uploading code to board via arduino IDE:**
+
 Board: NodeMCU 1.0 (ESP-12E Module)
+
 Upload Speed: 115200
+
 CPU Frequency: 80MHz
+
 Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 **How to start monitoring**
