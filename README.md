@@ -5,7 +5,7 @@
 
 Wireless Hardware Monitor
 
-* This project has no safety precautions whatsoever. It is only intended to be used in safe environments such as home wifi.
+* This project has no safety precautions against network attacks whatsoever. It is only intended to be used in safe environments such as home wifi.
 * All required SSIDs, passwords for WiFi, and IP addresses should be local.
 
 **Functions:**
