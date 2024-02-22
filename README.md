@@ -12,10 +12,13 @@ Wireless Hardware Monitor
 Real-time Display of CPU, GPU temporature, CPU, GPU, RAM, VRAM usage, date and time
 
 **Hardware List:**
+
 ESP8266 board (ESP8266 NodeMCU Lua - [Link](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES/ref=sr_1_2?crid=383KYRNYJWSZJ&dib=eyJ2IjoiMSJ9.gJShu3rQeKD8EK_mYUdf6S1HtsQDVwyVFPsSdBjZMvXhxQPq_tUNRGe6eyvYXcgsWt_epcPOUVjU-eyWYcFP0DMiK1nKaJ7n47ZFtqveEdzHsMMkutRtIMgKBbmQ29YNFh8p8A6R4uk3gUO9oYz8Zwnvc8QyEGUukKMn_mr4jeFpfq4Fi-k5GDxnFvKquh-Qt4w3lzGqe8Fng962uwdmQT6AqnbRzCEyjcKbw5CYLEc.7oMdj6360w_RsCnwOQbUM9UagDiJ9WVOS36m56-rfX8&dib_tag=se&keywords=ESP8266+NodeMCU&qid=1708609851&sprefix=esp8266+nodemcu%2Caps%2C508&sr=8-2))
+
 LCD screen (TFT LCD 1.3inch 240x240 IPS ST7789 IC Driver - [Link](https://www.amazon.com/MakerFocus-Display-1-3inch-Interface-Routines/dp/B07P9X3L7M))
 
 **Software List:**
+
 Openhardwaremonitor (only v0.9.3 works for me - [Download Link](https://openhardwaremonitor.org) )
 
 Arduino IDE (Any version should be fine)
