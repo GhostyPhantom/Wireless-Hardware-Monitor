@@ -5,11 +5,11 @@
 
 Wireless Hardware Monitor
 
-* This project has no safety precaution whatsoever. It is only intended to be used in safe environment such as home wifi.
-* All required SSID, password for WiFi and IP address should be local.
+* This project has no safety precautions whatsoever. It is only intended to be used in safe environments such as home wifi.
+* All required SSIDs, passwords for WiFi, and IP addresses should be local.
 
 **Functions:**
-Real-time Display of CPU, GPU temporature, CPU, GPU, RAM, VRAM usage, date and time
+Real-time Display of CPU, GPU temperatures, CPU, GPU, RAM, VRAM usage, date and time
 
 **Hardware List:**
 
@@ -20,12 +20,19 @@ LCD Display (TFT LCD 1.3inch 240x240 IPS ST7789 IC Driver - [Link](https://www.a
 **Pin Connections**
 
 ST7789 TFT Display ---  ESP8266 NodeMCU
+
                GND --- GND
+               
                VCC --- 3V3
+               
                SCL --- D5
+               
                SDA --- D7
+               
                RES --- D2
+               
                DC  --- D1
+               
                BLK --- 3V3
 
 **Software List:**
@@ -58,10 +65,10 @@ CPU Frequency: 80MHz
 Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 **How to start monitoring**
-1. Run HWmonitor.exe from the openhardwaremonitor directory you downloaded
-2. Run server_ESP.py, I'm using a anaconda command prompt client on windows
+1. Run OpenHardwareMonitor.exe from the OpenHardwareMonitor folder you downloaded
+2. Run server_ESP.py, I'm using an Anaconda command prompt on Windows 10
 3. The output of server_ESP.py should contain the local IP address it's running on
-4. Fill your WiFi SSID, password, and IP address from step 3 in the 8266client.ino file
+4. Fill in your WiFi SSID, password, and the IP address from step 3 in the 8266client.ino file
 5. Upload 8266client.ino to your board via arduino IDE
 
 * Currently the only way to stop the server is to kill the process via task manager, ctrl+c probably won't work.
