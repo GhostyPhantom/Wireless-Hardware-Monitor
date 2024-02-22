@@ -77,7 +77,7 @@ Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 5. Upload 8266client.ino to your board via arduino IDE
 
-6.Once the upload complete and the board is powered, it should connect to wifi and then server automatically`
+6. Once the upload complete and the board is powered, it should connect to wifi and then server automatically`
 
 ```
 * Currently the only way to stop the server is to kill the process via task manager, ctrl+c probably won't work.
