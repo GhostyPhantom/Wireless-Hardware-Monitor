@@ -65,13 +65,14 @@ CPU Frequency: 80MHz
 Flash Size: 4MB (FS:2MB OTA:~1019KB)
 
 **How to start monitoring**
+
 '''
 1. Run OpenHardwareMonitor.exe from the OpenHardwareMonitor folder you downloaded
 2. Run server_ESP.py, I'm using an Anaconda command prompt on Windows 10
 3. The output of server_ESP.py should contain the local IP address it's running on
 4. Fill in your WiFi SSID, password, and the IP address from step 3 in the 8266client.ino file
 5. Upload 8266client.ino to your board via arduino IDE
-6.Once the upload complete and the board is powered, it should connect to wifi and then server automatically
+6.Once the upload complete and the board is powered, it should connect to wifi and then server automatically`
 
 '''
 
